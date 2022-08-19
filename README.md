@@ -6,4 +6,4 @@ Sou Luiz, programador de linguagem Python e outros.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luizmosciaro&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-![](https://github.com/LuizMosciaro/LuizMosciaro/blob/main/7LIV.gif)
+![](https://i.gifer.com/4zeM.gif)
