@@ -1,7 +1,11 @@
-## Olá!
-Sou Luiz, programador de linguagem Python e outros.
 
-<img align="right" src="https://github.com/LuizMosciaro/LuizMosciaro/blob/main/code.gif">
+## Olá dev!
+Sou Luiz, Desenvolvedor Python.
+Realizo aplicações, manutenções de código e outros. Além de codificar gosto de fazer inúmeros hobbies, como desenhar/pintar e alguns projetos de engenharia elétrica e arduino.
+
+Conecte-se comigo:
+
+<a href="https://www.linkedin.com/in/luizmosciaro/" title="a">Linkedin</a>
 
 
 [![Luiz Mosciaro - Stats](https://github-readme-stats.vercel.app/api?username=luizmosciaro&hide=stars,&count_private=true&theme=yeblu)](https://github.com/luizmosciaro/github-readme-stats)
