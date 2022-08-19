@@ -13,7 +13,7 @@ LinkedIn
 <a align="center" href="mailto:edu.mosciaro@live.com" target="blank">
 <img align="center" src="https://github.com/LuizMosciaro/LuizMosciaro/blob/main/outlook.png" height="20"></a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;WhatsApp
-<a align="center" href="https://wa.me/92992754311?text=Ola%20Luiz%20Mosciaro,%20encontrei%20seu%20contato%20no%20GitHub." target="blank">
+<a align="center" href="https://wa.me/5592992754311?text=Ola%20Luiz%20Mosciaro,%20encontrei%20seu%20contato%20no%20GitHub." target="blank">
 <img align="center" src="https://github.com/LuizMosciaro/LuizMosciaro/blob/main/whatsapp.png" height="20"></a>
 </b>
 </p>
