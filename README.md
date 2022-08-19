@@ -1,6 +1,7 @@
 ## Olá dev!
 <p align="left">Sou Luiz, Desenvolvedor Python.</p>
 <p>Realizo aplicações, webscraping, automações de processos, manutenções de código e outros.
+  
 Além de codificar gosto de desenhar/pintar e possuo alguns projetos de engenharia elétrica e arduino.
 </p>
 
