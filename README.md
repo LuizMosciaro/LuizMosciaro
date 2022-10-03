@@ -1,8 +1,14 @@
-## Olá dev!
-<p align="left">Sou Luiz, Desenvolvedor Python.</p>
+##Oi
+<p align="left">Sou Luiz, Desenvolvedor de Softwares.</p>
 <p>Realizo aplicações, webscraping, automações de processos, manutenções de código e outros.
   
 Além de codificar possuo alguns projetos de engenharia elétrica e arduino/raspberry.
+</p>
+
+<p align="left">I'm Luiz, Softwares Developer.</p>
+<p>I perform applications, webscraping, process automation, code maintenance and others.
+
+In addition to coding, I have some electrical engineering projects and arduino/raspberry.
 </p>
 
 <b>
