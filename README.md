@@ -38,14 +38,25 @@ ________________________________________________________________________________
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
 ![C](https://img.shields.io/badge/-C-000?&logo=C)
-![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
 ![C#](https://img.shields.io/badge/-CSharp-000?&logo=Csharp)
+![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
+![HTML5](https://img.shields.io/badge/-HTML5-000?logo=HTML5)
+![CSS3](https://img.shields.io/badge/-CSS3-000?logo=CSS3)
 
 
 ### Technologies
 ![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=F90)
 ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
+![MySQL](https://img.shields.io/badge/-MySQL-000?logo=MySQL)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?logo=PostgreSQL)
+![Selenium](https://img.shields.io/badge/-Selenium-000?logo=Selenium)
+![Git](https://img.shields.io/badge/-Git-000?logo=Git)
+![Flask](https://img.shields.io/badge/-Flask-000?logo=Flask)
+![FastAPI](https://img.shields.io/badge/-FastAPI-000?logo=FastAPI)
+![Pandas](https://img.shields.io/badge/-Pandas-000?logo=Pandas)
+![RaspBerry](https://img.shields.io/badge/-RaspBerryPi-000?logo=RaspBerry+Pi)
+
 
 
 [![Luiz Mosciaro - Stats](https://github-readme-stats.vercel.app/api?username=luizmosciaro&hide=stars,&count_private=true&theme=yeblu)](https://github.com/luizmosciaro/github-readme-stats)
