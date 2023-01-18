@@ -61,8 +61,6 @@ ________________________________________________________________________________
 
 [![Luiz Mosciaro - Stats](https://github-readme-stats.vercel.app/api?username=luizmosciaro&hide=stars,&count_private=true&theme=yeblu)](https://github.com/luizmosciaro/github-readme-stats)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=LuizMosciaro&theme=yeblu&locale=pt-br&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luizmosciaro&layout=compact&theme=yeblu&locale=pt-br)](https://github.com/anuraghazra/github-readme-stats)
 
 ![](https://komarev.com/ghpvc/?username=luizmosciaro&style=flat&label=Profile+Views)
