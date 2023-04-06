@@ -37,8 +37,6 @@ ________________________________________________________________________________
 ### Languages
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
-![C](https://img.shields.io/badge/-C-000?&logo=C)
-![C#](https://img.shields.io/badge/-CSharp-000?&logo=Csharp)
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
 ![HTML5](https://img.shields.io/badge/-HTML5-000?logo=HTML5)
 ![CSS3](https://img.shields.io/badge/-CSS3-000?logo=CSS3)
