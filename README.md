@@ -55,10 +55,6 @@ ________________________________________________________________________________
 ![Pandas](https://img.shields.io/badge/-Pandas-000?logo=Pandas)
 ![RaspBerry](https://img.shields.io/badge/-RaspBerryPi-000?logo=RaspBerry+Pi)
 
-
-
-[![Luiz Mosciaro - Stats](https://github-readme-stats.vercel.app/api?username=luizmosciaro&hide=stars,&count_private=true&theme=yeblu)](https://github.com/luizmosciaro/github-readme-stats)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luizmosciaro&layout=compact&theme=yeblu&locale=pt-br)](https://github.com/anuraghazra/github-readme-stats)
 
 ![](https://komarev.com/ghpvc/?username=luizmosciaro&style=flat&label=Profile+Views)
